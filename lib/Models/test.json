@@ -1,0 +1,12 @@
+{
+    "question1": {
+        "index": 1,
+        "imageUrl": "assets/images/minilik.jpg",
+        "answer": "MinilikSquare"
+    },
+    "Question2": {
+        "index": 1,
+        "imageUrl": "assets/images/meskel.jpg",
+        "answer": "MeskelSquare"
+    }
+}
